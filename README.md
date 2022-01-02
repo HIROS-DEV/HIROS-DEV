@@ -1,11 +1,12 @@
 ## Learning something new everyday
 
 Hello, I’m Hiro. 
-I'm a 100% self-self-taught a developer from Japan. 
-I started studying web development with the help of The Odin Project. Using the vast list of resources they offer, I was able to obtain new learning skills as I studied web fundamentals and learnt to enjoy building responsive websites from scratch to bring new ideas to life in a browser. 
+I'm a 100% self-taught developer from Japan. 
+I started studying web development with the help of The Odin Project. Using the vast list of resources they offer, I was able to obtain new learning skills as I studied web fundamentals and learnt to enjoy building responsive websites from scratch to bring new ideas to life in a browser.
 
 ## What I am currently focusing on...
-* Improving my MERN skills by building projects (currently working on a [chat application](https://lechat.vercel.app/) in my free time)
+* Improving my MERN skills by building projects (currently working on a facebook clone in my free time)
+* I am learning GraphQL full stack. 
 
 ## Tech & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

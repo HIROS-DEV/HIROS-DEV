@@ -22,6 +22,7 @@ I started studying web development with the help of The Odin Project. Using the 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JSONWEBTOKENS](https://img.shields.io/badge/-JSONWEBTOKENS-000000?logo=jsonwebtokens)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![styled-components](https://img.shields.io/badge/-styled-components-DB7093?logo=styled-components)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIROS-DEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

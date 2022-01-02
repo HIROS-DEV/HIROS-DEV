@@ -1,7 +1,8 @@
 ## Learning something new everyday
 
-Hello, I’m Hiro, a developer from Japan. I started studying web development with the help of The Odin Project. Using the vast list of resources they offer, I was able to obtain new learning skills as I studied web fundamentals and learnt to enjoy building responsive websites from scratch to bring new ideas to life in a browser. 
-
+Hello, I’m Hiro. 
+I'm a 100% self-self-taught a developer from Japan. 
+I started studying web development with the help of The Odin Project. Using the vast list of resources they offer, I was able to obtain new learning skills as I studied web fundamentals and learnt to enjoy building responsive websites from scratch to bring new ideas to life in a browser. 
 
 ## What I am currently focusing on...
 * Improving my MERN skills by building projects (currently working on a [chat application](https://lechat.vercel.app/) in my free time)
@@ -24,5 +25,5 @@ Hello, I’m Hiro, a developer from Japan. I started studying web development wi
 ## Find me elsewhere
 You can write me at any of the following places, I'll do my best to respond as soon as possible.
 
-* <a href="mailto:nn.aurelie@hotmail.com">Email</a>
-* <a href="https://www.linkedin.com/in/aur%C3%A9lie-nguyen/">LinkedIn</a>
+* <a href="hirosdev@gmail.com">Email</a>
+* <a href="#">LinkedIn(Getting ready)</a>

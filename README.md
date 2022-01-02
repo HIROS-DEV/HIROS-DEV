@@ -19,7 +19,7 @@ Hello, I’m Hiro, a developer from Japan. I started studying web development wi
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIROS-DEV)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIROS-DEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me elsewhere
 You can write me at any of the following places, I'll do my best to respond as soon as possible.

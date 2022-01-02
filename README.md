@@ -8,6 +8,7 @@ I started studying web development with the help of The Odin Project(https://www
 * Improving my MERN skills by building projects (currently working on a facebook clone in my free time)
 * I am learning GraphQL full stack. 
 * I am learning algorithm in Code Wars.
+* ![codewars badge](https://www.codewars.com/users/HIROS-DEV/badges/small)
 
 ## Tech & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

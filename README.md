@@ -25,5 +25,5 @@ I started studying web development with the help of The Odin Project. Using the 
 ## Find me elsewhere
 You can write me at any of the following places, I'll do my best to respond as soon as possible.
 
-* <a href="hirosdev@gmail.com">Email</a>
+* <a href="mailto:hirosdev@gmail.com">Email</a>
 * <a href="#">LinkedIn(Getting ready)</a>

@@ -2,7 +2,7 @@
 
 Hello, I’m Hiro. 
 I'm a 100% self-taught developer from Japan. 
-I started studying web development with the help of The Odin Project. Using the vast list of resources they offer, I was able to obtain new learning skills as I studied web fundamentals and learnt to enjoy building responsive websites from scratch to bring new ideas to life in a browser.
+I started studying web development with the help of The Odin Project(https://www.theodinproject.com/). Using the vast list of resources they offer, I was able to obtain new learning skills as I studied web fundamentals and learnt to enjoy building responsive websites from scratch to bring new ideas to life in a browser.
 
 ## What I am currently focusing on...
 * Improving my MERN skills by building projects (currently working on a facebook clone in my free time)

@@ -10,7 +10,6 @@ I started studying web development with the help of The Odin Project(https://www
 * I am learning algorithm in Code Wars.
 
 ## Tech & Tools
-![codewars badge](https://www.codewars.com/users/HIROS-DEV/badges/small)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -33,6 +32,7 @@ I started studying web development with the help of The Odin Project(https://www
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
 
 ## Stats
+![codewars badge](https://www.codewars.com/users/HIROS-DEV/badges/small)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIROS-DEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me elsewhere

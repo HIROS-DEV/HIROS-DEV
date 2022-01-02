@@ -20,12 +20,12 @@ I started studying web development with the help of The Odin Project. Using the 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![JSONWEBTOKENS](https://img.shields.io/badge/-JSONWEBTOKENS-000000?logo=jsonwebtokens&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![styled-components](https://img.shields.io/badge/-styledcomponents-DB7093?logo=styled-components&logoColor=white&style=flat)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![JSONWEBTOKENS](https://img.shields.io/badge/-JSONWEBTOKENS-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![styled-components](https://img.shields.io/badge/-styledcomponents-DB7093?logo=styled-components&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIROS-DEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

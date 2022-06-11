@@ -6,7 +6,8 @@ I started studying web development with the help of The Odin Project(https://www
 
 ## What I am currently focusing on...
 * Improving my MERN skills by building projects (currently working on a instagram clone)
-* I am learning algorithm in Code Wars.
+* I am learning SQL.
+* I am creating my profile webpage.
 
 ## Tech & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
